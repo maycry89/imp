@@ -8,7 +8,7 @@ public class gameQuit : MonoBehaviour {
     {
        
         Debug.Log("Collision Detected");
-           // SceneManager.LoadScene(0);
+           SceneManager.LoadScene(0);
 
      }
     
